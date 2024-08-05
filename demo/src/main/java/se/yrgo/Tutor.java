@@ -1,4 +1,4 @@
-package se.yrgo;
+    package se.yrgo;
 
 import jakarta.persistence.*;
 import java.util.ArrayList;
